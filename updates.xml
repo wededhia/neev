@@ -1,9 +1,0 @@
-<application>
-  <component name="UpdatesConfigurable">
-    <ignoredBuildNumbers>
-      <item value="183.5912.18" />
-    </ignoredBuildNumbers>
-    <option name="LAST_BUILD_CHECKED" value="PC-183.4886.43" />
-    <option name="LAST_TIME_CHECKED" value="1552569620704" />
-  </component>
-</application>
